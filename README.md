@@ -26,3 +26,4 @@ jupyter notebook
 ## Run
 
 * K-means analysis: `k-means.ipynb`
+* Classification using BERT (WIP): `BERT.ipynb`
