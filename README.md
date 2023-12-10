@@ -9,14 +9,12 @@ This puzzle consists of 100 shuffled pages. This puzzle is solved by correctly o
 
 We suggest a solution [here](https://glthr.com/cj/). This unofficial solution has been done almost entirely manually (we just developed a tool to detect hidden quotes to assist with this process).
 
-- `jawbone.json` should contain the complete corpus (see below)
+- `jawbone.json` corpus from original edition (in the public domain)
 - `unofficial_solution.json` contains the solution suggested [here](https://glthr.com/cj/)
 
 ## Install
 
-First, complete the `jawbone.json` file to contain all pages (for our analysis, we used the 1934 edition).
-
-Then install the dependencies:
+Install the dependencies:
 
 ```
 python3 -m venv venv
@@ -26,4 +24,4 @@ pip install -r requirements.txt
 
 ## Run
 
-Open `jawbone.ipynb`
+* K-means analysis: `k-means.ipynb`
