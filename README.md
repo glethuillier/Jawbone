@@ -1,4 +1,4 @@
-# Analyzing Cain’s Jawbone With Artificial Intelligence
+# Analyzing Cain’s Jawbone With Artificial Intelligence [WIP]
 
 ## Description
 
@@ -25,5 +25,5 @@ jupyter notebook
 
 ## Run
 
-* K-means analysis: `k-means.ipynb`
-* Classification using BERT (WIP): `BERT.ipynb`
+* K-means preliminary analysis: `1_k-means.ipynb`
+* Classification using BERT (WIP): `2_BERT.ipynb`
