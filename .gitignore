@@ -1,2 +1,3 @@
 .ipynb_checkpoints
-model.*
+*.hdf5
+*.keras

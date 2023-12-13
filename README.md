@@ -4,10 +4,13 @@
 
 This project aims to study the usefulness of analyzing Cain’s Jawbone with Artificial Intelligence. Note that this is a work in progress. 
 
-Cain’s Jawbone, a Torquemada Mystery Novel, is a mystery puzzle by Edward Powys Mathers (1892 – 1939). It was initially published in 1934 (Victor Gollancz, Ltd) and was reprinted in 2019 (Unbound).
+*Cain’s Jawbone, a Torquemada Mystery Novel*, is a mystery puzzle by Edward Powys Mathers (1892 – 1939). It was initially published in 1934 (Victor Gollancz, Ltd) and was reprinted in 2019 (Unbound).
+
 This puzzle consists of 100 shuffled pages. This puzzle is solved by correctly ordering them using clues from the text. Only one solution exists and has yet to be officially made public.
 
 We suggest a solution [here](https://glthr.com/cj/). This unofficial solution has been done almost entirely manually (we just developed a tool to detect hidden quotes to assist with this process).
+
+## Data
 
 - `jawbone.json` corpus from original edition (in the public domain)
 - `unofficial_solution.json` contains the solution suggested [here](https://glthr.com/cj/)
@@ -26,5 +29,6 @@ jupyter notebook
 ## Run
 
 * K-means preliminary analysis: `1_k-means.ipynb`
-* Binary Classification using BERT (WIP): `2_BERT_binary.ipynb`
-* Multiclass Classification using BERT (WIP): `2_BERT_multiclass.ipynb`
+* Binary Classification of pages using BERT *(WIP)*: `2_BERT_binary_pages.ipynb`
+* Binary Classification of sentences using BERT *(WIP)*: `2_BERT_binary_sentences.ipynb`
+* Multiclass Classification using BERT *(WIP:DRAFT)*: `3_BERT_multiclass.ipynb`
