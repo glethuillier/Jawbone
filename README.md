@@ -29,5 +29,5 @@ jupyter notebook
 ## Run
 
 * K-means preliminary analysis: `1_k-means.ipynb`
-* Binary Classification using BERT *(WIP)*: `2_BERT_binary_classification.ipynb`
-* Multiclass Classification using BERT *(WIP:DRAFT)*: `3_BERT_multiclass.ipynb`
+* Binary Classification using BERT: `2_BERT_binary_classification.ipynb`
+* Multiclass Classification using BERT *(WIP:DRAFT)*: `3_BERT_multiclass_classification.ipynb`
