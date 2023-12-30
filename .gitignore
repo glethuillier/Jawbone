@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 *.hdf5
+*.pt
 *.keras
 __pycache__
