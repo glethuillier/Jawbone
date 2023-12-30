@@ -29,5 +29,7 @@ jupyter notebook
 ## Run
 
 * K-means preliminary analysis: `1_k-means.ipynb`
-* Binary Classification using BERT: `2_BERT_binary_classification.ipynb`
-* Multiclass Classification using BERT *(WIP:DRAFT)*: `3_BERT_multiclass_classification.ipynb`
+* Binary Classification (Bill Hardy) using BERT: `2_BERT_binary_classification_bill.ipynb`
+* Multiclass Classification using BERT: `3_BERT_multiclass_classification.ipynb`
+* Binary Classification (all narrators) using BERT: `4_BERT_binary_classification_all.ipynb`
+* Pseudo Bill Hardy (WIP): `5_BERT_pseudo_bill_WIP.ipynb`
