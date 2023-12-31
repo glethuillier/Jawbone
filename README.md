@@ -1,4 +1,4 @@
-# Analyzing Cain’s Jawbone With Artificial Intelligence [WIP]
+# Analyzing Cain’s Jawbone With Artificial Intelligence
 
 ## Description
 
