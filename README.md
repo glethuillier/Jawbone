@@ -32,4 +32,4 @@ jupyter notebook
 * Binary Classification (Bill Hardy) using BERT: `2_BERT_binary_classification_bill.ipynb`
 * Multiclass Classification using BERT: `3_BERT_multiclass_classification.ipynb`
 * Binary Classification (all narrators) using BERT: `4_BERT_binary_classification_all.ipynb`
-* Pseudo Bill Hardy (WIP): `5_BERT_pseudo_bill_WIP.ipynb`
+* Assessing the Impact of Grammatical Tenses on Pages Classification: `5_Grammatical_tenses_assessment.ipynb`
